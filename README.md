@@ -16,6 +16,8 @@ Deployment
 
 ## How To Contribute
 
+Fork and pull
+
 ### Copyright
 
 2014 Git.Training.
